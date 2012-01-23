@@ -7,9 +7,9 @@ Gem::Specification.new do |s|
   s.version     = Buddha::VERSION
   s.authors     = ["Alexander Graefe"]
   s.email       = ["alex@codemo.de"]
-  s.homepage    = ""
-  s.summary     = %q{TODO: Write a gem summary}
-  s.description = %q{TODO: Write a gem description}
+  s.homepage    = "http://github.com/rickenharp/buddha"
+  s.summary     = %q{Give your classes the buddha nature}
+  s.description = %q{Give your classes the buddha nature}
 
   s.rubyforge_project = "buddha"
 
