@@ -7,6 +7,6 @@ describe Buddha::Nature do
     end
     
     foo = Testclass.new
-    foo.should have_buddha_nature
+    expect(foo).to have_buddha_nature
   end
 end
